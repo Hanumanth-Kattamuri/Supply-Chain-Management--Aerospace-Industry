@@ -96,3 +96,6 @@ FEATURE TRANSFORMATION
     ACCESSIBILITY: 1-5(1- REACHABLE,2-VIA MESSAGES,3-USING CALLS,4-EMAILING,5-NOT REACHABLE).
 
     MEETING EXPECTATIONS: 1-4(1-APPRETIATIVE, 2-APPLAUSABLE, 3-ACCEPTABLE,4-UNACCEPTABLE).
+![WhatsApp Image 2024-12-24 at 15 44 32_158319fc](https://github.com/user-attachments/assets/57bf1265-10eb-4519-9a08-68fd618682db)
+![WhatsApp Image 2024-12-24 at 15 44 33_937c03ba](https://github.com/user-attachments/assets/069a334e-392b-4d33-9184-e270d1a6187a)
+![WhatsApp Image 2024-12-24 at 15 44 33_1bee5d01](https://github.com/user-attachments/assets/32d2013a-fe18-4f3d-96d5-ba56fcd98466)
